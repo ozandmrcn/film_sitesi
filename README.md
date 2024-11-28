@@ -21,6 +21,7 @@ https://ozanmoviesite.netlify.app/
 
 ![movie_site](https://github.com/yusufyaman07/movie_site/assets/148998418/5f4720d4-aad7-44cc-b06c-22f47e85b698)
 
-# For your questions and suggestions
+# 📧 Contact
 
-- yusufyaman00000@gmail.com
+For any questions or feedback, feel free to contact:
+Ozan Demircan - ozandmrcn47@gmail.com
