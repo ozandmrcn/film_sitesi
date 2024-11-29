@@ -20,6 +20,8 @@ https://ozanmoviesite.netlify.app/
 # Preview
 ![site1](https://github.com/user-attachments/assets/3ddda119-50fb-4c0e-8f29-83981778debd)
 
+<br/>
+
 ![site2](https://github.com/user-attachments/assets/4ff7ee67-f956-49db-9c3a-ad447b75be22)
 
 
