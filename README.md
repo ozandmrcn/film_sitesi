@@ -18,7 +18,9 @@ In this project, a great movie website was created using html, css and js.
 https://ozanmoviesite.netlify.app/
 
 # Preview
-BURAYA EKLICEM
+![site1](https://github.com/user-attachments/assets/3ddda119-50fb-4c0e-8f29-83981778debd)
+![site2](https://github.com/user-attachments/assets/4ff7ee67-f956-49db-9c3a-ad447b75be22)
+
 
 # 📧 Contact
 
